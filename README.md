@@ -1,2 +1,2 @@
 # NimExercism
-Learn concepts of NimLang (Systems programming) with various exercises from exercism.io
+Learn concepts of NimLang (Systems programming) from exercism.io
